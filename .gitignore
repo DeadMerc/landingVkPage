@@ -2,6 +2,7 @@
 Thumbs.db
 ehthumbs.db
 mysql.php
+!mysql.php
 # Folder config file
 Desktop.ini
 
